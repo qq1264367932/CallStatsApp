@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CallStats" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">white</item>
+        <item name="colorSecondary">#03DAC5</item>
+        <item name="colorOnSecondary">black</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+</resources>
